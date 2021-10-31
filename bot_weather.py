@@ -58,7 +58,7 @@ async def get_weather(message: types.Message):
               )
 
     except:
-        await message.reply("\U00002620 ДЕ? ДЕ? Ану ще раз набеои мисто \U00002620")
+        await message.reply("\U00002620 ДЕ? ДЕ? Ану ще раз набеои місто \U00002620")
 
 
 if __name__ == '__main__':
